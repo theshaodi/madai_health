@@ -44,7 +44,7 @@
         <!--分页-->
         <mybatis.paginator.version>1.2.15</mybatis.paginator.version>
         <!--mysql驱动包-->
-        <mysql.version>8.0.13</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <!--德鲁伊-->
         <druid.version>1.0.9</druid.version>
         <!--文件上传-->
